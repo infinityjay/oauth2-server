@@ -1,3 +1,4 @@
+本项目基于oauth2实现，实现过程完全参考开源项目[llaoj/oauth2](https://github.com/llaoj/oauth2)
 ## llaoj/oauth2
 1. OAuth2.0 Server: based on go-oauth2
 2. SSO Server: based on the OAuth2 service
